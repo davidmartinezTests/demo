@@ -1,4 +1,4 @@
-# Project Title
+# NinjaRMM Demo
 
 Sample demo to manage devices.
 
