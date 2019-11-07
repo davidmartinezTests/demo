@@ -24,7 +24,7 @@ cd into devices-clientapp folder.
 ```
 cd devices-clientapp
 npm install
-npm run
+npm start
 ```
 
 Visit: http://localhost:8000
