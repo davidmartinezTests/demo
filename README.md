@@ -5,13 +5,8 @@ Sample demo to manage devices.
 ## Getting Started
 
 Clone repo.
-
-### Prerequisites
-
-What things you need to install the software and how to install them
-
 ```
-Give examples
+git clone https://github.com/davidmartinezTests/demo
 ```
 
 ### Installing
